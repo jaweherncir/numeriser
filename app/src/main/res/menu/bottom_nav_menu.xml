@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:title="historique"
+        android:icon="@drawable/history"/>
+
+    <item
+        android:id="@+id/carnet"
+        android:icon="@drawable/plus"
+        android:title="carnet" />
+    <item
+        android:id="@+id/déconnecter"
+        android:icon="@drawable/logout"
+        android:title="déconnecter" />
+</menu>
